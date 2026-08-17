@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-k92l9g.pulaucuansite.cfd/sitemap.xml
